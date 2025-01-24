@@ -5,3 +5,4 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install react```
+Sistema de Luis Eduardo 2.0
